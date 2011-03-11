@@ -1,8 +1,8 @@
+===========
 envtools-skeleton
+===========
 
-===========
-DEVELOPMENT
-===========
+** DEVELOPMENT **
 
 Follow these instructions to begin developing:
 
