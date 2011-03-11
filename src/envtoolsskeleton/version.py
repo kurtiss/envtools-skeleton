@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+# encoding: utf-8
+"""
+__init__.py
+
+Created by Kurtiss Hare on 2011-03-10.
+All copyright interest in this code is dedicated to the public domain.
+"""
+
+VERSION = "0.0.1"
