@@ -2,18 +2,13 @@
 envtools-skeleton
 ===========
 
-** DEVELOPMENT **
-
-Follow these instructions to begin developing:
+DEVELOPMENT
+-----------------
 
 1) Ensure the following dependencies have been installed:
 
-git
-virtualenv
-virtualenvwrapper
+    git
+    virtualenv
+    virtualenvwrapper
 
-2) Set the WORKON_HOME environment variable to your workspace folder.  This is typically
-done inside your user's .profile script.
-
-3) Ensure that virtualenvwrapper.sh has been sourced, which is also typically done inside
-your user's .profile script.
+2) Follow virtualenvwrapper's installation instructions.  Summary: Inside ~/.profile, set $WORKON_HOME to your workspace folder, then source virtualenvwrapper.sh
